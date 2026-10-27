@@ -37,7 +37,6 @@ Inicie a API em modo de desenvolvimento:
 npm run start:dev
 ```
 
-> Use `npm run start:dev` (com `run`); `npm start:dev` não é o comando definido no `package.json`.
 
 Mantenha esse terminal aberto enquanto usar a API. Por padrão, ela fica disponível em <http://localhost:3000>. Para usar outra porta, defina `PORT` no `.env`.
 
